@@ -1,6 +1,6 @@
 # Git Basics
 
-All the commands you need to get started with git
+### All the commands you need to get started with git
 
 * log: shows a list of all the commits made so far
 * add: adds changes to the staging area, ready for the next commit
